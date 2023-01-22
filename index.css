@@ -105,3 +105,7 @@ footer {
   line-height: 39px;
   font-size: 25px;
 }
+a {
+  text-decoration: none;
+  display: inline;
+}
