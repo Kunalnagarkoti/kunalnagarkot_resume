@@ -57,7 +57,7 @@ section#goto {
 }
 
 .button {
-  background-color: #c6f8e5;
+  background-color: #99eccc;
   border-radius: 12px;
   color: rgb(52, 12, 174);
   padding: 14px 40px;
@@ -65,7 +65,7 @@ section#goto {
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  width: 100%;
+  width: 90%;
 }
 
 
